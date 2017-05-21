@@ -1,0 +1,23 @@
+{
+  "name": "express-tutor",
+  "version": "1.0.0",
+  "description": "tutorial application to learn express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volfmessing/express-tutor.git"
+  },
+  "keywords": [
+    "express",
+    "tutorial"
+  ],
+  "author": "Vit Khodak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volfmessing/express-tutor/issues"
+  },
+  "homepage": "https://github.com/volfmessing/express-tutor#readme"
+}
