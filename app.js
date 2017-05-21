@@ -13,5 +13,7 @@ app.get('/', function (req, res) {
     res.send('Tutor app is running...');
 })
 
-app.listen(3000);
-console.log("Express is running...");
+app.listen(3000, function () {
+    console.log("Express is running on port 3000...");
+});
+
