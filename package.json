@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/volfmessing/express-tutor/issues"
   },
-  "homepage": "https://github.com/volfmessing/express-tutor#readme"
+  "homepage": "https://github.com/volfmessing/express-tutor#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
